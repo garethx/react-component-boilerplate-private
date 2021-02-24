@@ -1,4 +1,4 @@
-# React Component Boilerplate
+# React Component Boilerplateyyyy
 
 A simple boilerplate setup for creating a React component library.
 
